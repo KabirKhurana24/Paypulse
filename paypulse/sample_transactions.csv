@@ -1,0 +1,4 @@
+id,customer,email,amount,currency,gateway,method,status,date,time,reference,reason
+TXN-1001,Sample Customer,sample@example.com,1250,INR,Razorpay,UPI,Success,25 Nov 2026,10:30:00,ORD-1001,
+TXN-1002,Another Customer,another@example.com,900,INR,Cashfree,Cards,Failed,25 Nov 2026,10:31:00,ORD-1002,Do not honor
+TXN-1003,Third Customer,third@example.com,2499,INR,PayU,Netbanking,Pending,25 Nov 2026,10:32:00,ORD-1003,Awaiting confirmation
